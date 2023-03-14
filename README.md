@@ -4,10 +4,10 @@
 2. clone 받은 파일에 .env, .gitignore 만들기
 3. .env에 
 
-    MYSQL_USER=`사용할_유저이름_작성`<br>
-    MYSQL_PASSWORD=`사용할_비밀번호_작성`<br>
-    MYSQL_ROOT_PASSWORD=`사용할_루트비밀번호_작성`<br>
-    MYSQL_DATABASE=awesomelydelicious<br>
+    MYSQL_USER=checkit<br>
+    MYSQL_PASSWORD=checkit<br>
+    MYSQL_ROOT_PASSWORD=checkit<br>
+    MYSQL_DATABASE=chekit<br>
     위 내용을 작성해주고 .gitignore에 .env 적어주기
 <br>
 4. 터미널을 켜 clone 받은 파일로 이동 = 현재 있는 폴더에 Dockerfile이 있어야 함<br>
